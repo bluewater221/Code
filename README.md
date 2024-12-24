@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>
-      Rex</title>
+
+      Rex
   </head>
 </html>
